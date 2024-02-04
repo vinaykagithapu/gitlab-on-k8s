@@ -1,5 +1,8 @@
 # GitLab v16.7.3 - Nginx Ingress (SSL) - Kind v1.25.1
 
+## Architecture
+![architecture](./img/gitlab-k8s.png)
+
 # Get Started
 
 ## Setup K8s Cluster
