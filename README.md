@@ -1,1 +1,1 @@
-# gitlab-on-k8s
+# GitLab on K8s
